@@ -10,3 +10,5 @@ Contributes 2% of the final grade.
 ## Contributing
 
 Follow the instructions. Done by Tom. 
+
+![screenshot1](screenshot1.png)
